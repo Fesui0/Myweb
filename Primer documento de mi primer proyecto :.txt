@@ -3,3 +3,5 @@ Primer documento de mi primer proyecto :3
 Espero estes orgulloso luego apa
  YUPIIIIIIII
 ## Rashinger
+
+En la rama develop podría ver esto, pero en la rama master NOP :P
